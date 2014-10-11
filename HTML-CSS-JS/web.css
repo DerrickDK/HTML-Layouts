@@ -1,0 +1,95 @@
+body {
+background-image: url(http://www.foxeventi.eu/wp-content/uploads/2014/04/blurred-city-lights-wallpapers_42828_1920x1200.jpg);
+padding-top: 15px;
+position: relative;
+}
+div li {
+display: inline-block;
+    margin-bottom: 20px;
+
+}
+
+.nav a {
+  color: #6fd0e2;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  text-transform: uppercase;
+  background-color: rgba(111, 208, 226, 0.28)
+}
+.jumbotron {
+ background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/airplane-wallpaper-3.jpg");
+height: 700px;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.jumbotron .container{
+ position: relative;
+margin-top: 50px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 100px
+}
+.jumbotron .container p:nth-child(2) {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace, serif;
+}
+.jumbotron .container p:nth-child(3) {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace, serif;
+    
+}
+.jumbotron .container img {
+    margin-left: 545px;
+    
+}
+
+.cities {
+margin-bottom: 50px;
+}
+
+.cities .container h3 {
+font-size: 24px;
+font-family: monospace, serif;
+font-weight: bold;
+color: #6fd0e2;
+}
+.cities .container p {
+color: #fff;
+margin-bottom: 25px;
+}
+.learn-more { /* acting like jumbotron*/
+background-color: rgba(111, 208, 226, 0.28);
+}
+
+.learn-more h3 {
+    font-family: monospace, serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #6fd0e2;
+    
+}
+
+.learn-more p {
+color: #fff;
+font-family: monospace, serif;
+
+}
+.learn-more a {
+ color: #6fd0e2;   
+    
+}
